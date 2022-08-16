@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: aliceblue ;
     border: 3px solid black;
@@ -28,4 +29,36 @@ div{
 p{
     text-align: center;
     letter-spacing: 25px;
+=======
+body{
+    background-color: aliceblue ;
+    border: 3px solid black;
+    width: 227px;
+    position: fixed; left: 200px;
+    border-radius: 17px;
+}
+th, td{
+    border:1px solid black;
+    border-radius: 17px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+th{
+background-color: rgb(152, 226, 236);
+}
+td{
+    background-color: thistle;
+}
+div{
+    width: 225px;
+    height: 100px;
+    border: 1px solid black;
+    background:rgb(174, 197, 231) ;
+    border-radius: 15px;
+}
+p{
+    text-align: center;
+    letter-spacing: 25px;
+>>>>>>> 60400113b8976528dd1c7d68ab692ec6e14d9f38
 }
